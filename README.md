@@ -1,7 +1,7 @@
-# Design-Patterns
-Practise Repo For Exploration of Design Patterns
-
 <div align="center">
+  
+# Design-Patterns
+A Practice Repo For Exploration of Design Patterns
   
 . | Pattern | Link 
 --- | --- | --- 

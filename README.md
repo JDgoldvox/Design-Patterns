@@ -1,6 +1,6 @@
 # Design-Patterns
-Practise Repo For Exploration of Deisgn Patterns
+Practise Repo For Exploration of Design Patterns
 
---- | --- | --- |
-. | Pattern | Link
+---- | ---- | ---- 
+. | Pattern | Link 
 0 | Stratergy | [Link]()

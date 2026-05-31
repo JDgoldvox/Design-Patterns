@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace FlyingBehaviour
+namespace Duck
 {
     public class FlyWithWings : IFlyBehaviour
     {

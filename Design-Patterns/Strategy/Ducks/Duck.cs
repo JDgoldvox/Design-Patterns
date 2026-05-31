@@ -2,9 +2,6 @@
 using System.Collections.Generic;
 using System.Text;
 
-using FlyingBehaviour;
-using QuackBehaviour;
-
 namespace Duck
 {
     public class Duck

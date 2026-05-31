@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace QuackBehaviour
+namespace Duck
 {
     public class NormalQuack : IQuackBehaviour
     {

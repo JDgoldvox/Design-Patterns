@@ -2,7 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-public interface IFlyBehaviour
+
+namespace Duck
 {
-    public void Fly();
+    public interface IFlyBehaviour
+    {
+        public void Fly();
+    }
 }

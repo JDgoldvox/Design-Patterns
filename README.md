@@ -5,6 +5,6 @@ A Practice Repo For Exploration of Design Patterns
   
 . | Pattern | Link 
 --- | --- | --- 
-0 | Stratergy | [Link]()
+1 | Stratergy | [Link](https://github.com/JDgoldvox/Design-Patterns/tree/main/Design-Patterns/Strategy)
   
 </div>

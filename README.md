@@ -6,7 +6,7 @@ A Practice Repo For Exploration of Design Patterns
 . | Pattern | Link 
 --- | --- | --- 
 1 | Strategy | [Link](https://github.com/JDgoldvox/Design-Patterns/tree/main/Design-Patterns/Strategy)
-2 | Oberver | [Link](https://github.com/JDgoldvox/Design-Patterns/tree/main/Design-Patterns/Observer)
+2 | Observer | [Link](https://github.com/JDgoldvox/Design-Patterns/tree/main/Design-Patterns/Observer)
 3 | Decorator | [Link](https://github.com/JDgoldvox/Design-Patterns/tree/main/Design-Patterns/Decorator)
 4 |  | [Link]()
 5 |  | [Link]()

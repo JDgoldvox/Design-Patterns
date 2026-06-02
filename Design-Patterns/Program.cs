@@ -5,5 +5,8 @@
 // ObserverMain observer = new();
 // observer.Run();
 
-DecoratorMain decorator = new();
-decorator.Run();
+// DecoratorMain decorator = new();
+// decorator.Run();
+
+AbstractFactoryMain abstractFactory = new();
+abstractFactory.Run();

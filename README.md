@@ -10,8 +10,11 @@ A Practice Repo For Exploration of Design Patterns
 3 | Decorator | [Link](https://github.com/JDgoldvox/Design-Patterns/tree/main/Design-Patterns/Decorator)
 4 | Abstract Factory | [Link](https://github.com/JDgoldvox/Design-Patterns/tree/main/Design-Patterns/Abstract%20Factory)
 5 | Singleton | [Link](https://github.com/JDgoldvox/Design-Patterns/tree/main/Design-Patterns/Singleton)
-6 |  | [Link]()
-7 |  | [Link]()
+6 | Command | [Link]()
+7 | Adapter & Facade | [Link]()
+8 |  | [Link]()
+9 |  | [Link]()
+10 |  | [Link]()
 
   
 </div>

@@ -11,5 +11,8 @@
 // AbstractFactoryMain abstractFactory = new();
 // abstractFactory.Run();
 
-SingletonMain singleton = new();
-singleton.Run();
+// SingletonMain singleton = new();
+// singleton.Run();
+
+CommandMain command = new();
+command.Run();

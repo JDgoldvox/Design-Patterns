@@ -8,5 +8,8 @@
 // DecoratorMain decorator = new();
 // decorator.Run();
 
-AbstractFactoryMain abstractFactory = new();
-abstractFactory.Run();
+// AbstractFactoryMain abstractFactory = new();
+// abstractFactory.Run();
+
+SingletonMain singleton = new();
+singleton.Run();
